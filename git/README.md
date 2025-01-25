@@ -1,1 +1,1 @@
-This is the README for the git directory
+This project is for starting to code today.
